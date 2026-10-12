@@ -1,205 +1,273 @@
 <!-- ═══════════════════════════════════════════════════════════════
-     ABISHEK N — GitHub Profile README
-     Premium dark-purple theme · drop in your profile repo
-     (Abishek-0412/Abishek-0412 → README.md)
+     ABISHEK N — GitHub Profile README (modern edition)
+     Drop into your profile repo: Abishek-0412/Abishek-0412 → README.md
      ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- ═══════════ ANIMATED GRADIENT HEADER ═══════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0.1:1B0B2E,0.35:4C1D95,0.6:7C3AED,0.85:58A6FF,1:1B0B2E&height=220&section=header&text=ABISHEK%20N&fontSize=52&fontColor=FFFFFF&fontAlignY=34&desc=Full%20Stack%20Developer%20%C2%B7%20Developer%20Lead%20%C2%B7%20AI%20Engineering&descSize=18&descAlignY=52&animation=fadeIn" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,40:4C1D95,75:7C3AED,100:58A6FF&height=240&section=header&text=Abishek%20N&fontSize=64&fontColor=FFFFFF&fontAlignY=36&desc=Full%20Stack%20%26%20AI%20Systems%20Engineer&descSize=20&descAlignY=56&animation=twinkling" alt="Abishek N — Full Stack & AI Systems Engineer" />
 
-</div>
+<a href="https://github.com/Abishek-0412">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=640&lines=Developer+Lead+%40+Brightspot;Real-time+systems+%C2%B7+APIs+%C2%B7+Databases;Observability+that+actually+helps;AI+agents+that+do+real+work;Learn+%E2%86%92+Build+%E2%86%92+Improve+%E2%86%92+Repeat" alt="Typing intro" />
+</a>
 
-<!-- ═══════════ TYPING ANIMATION ═══════════ -->
-<div align="center">
+<p>
+  <img src="https://img.shields.io/badge/Developer%20Lead-Brightspot-7C3AED?style=flat-square&labelColor=0D0221" alt="Developer Lead at Brightspot" />
+  <img src="https://img.shields.io/badge/Experience-4%2B%20years-A855F7?style=flat-square&labelColor=0D0221" alt="4+ years experience" />
+  <img src="https://img.shields.io/badge/Based%20in-Coimbatore%2C%20IN-58A6FF?style=flat-square&labelColor=0D0221" alt="Based in Coimbatore, India" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaborate-22C55E?style=flat-square&labelColor=0D0221" alt="Open to collaborate" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=720&lines=Full+Stack+Development;Backend+Systems+%26+API+Design;Cloud+%26+Performance+Engineering;AI+Agents+%26+LLM+Automation;Learn+%E2%86%92+Build+%E2%86%92+Improve+%E2%86%92+Repeat" alt="Typing SVG" />
+<p>
+  <a href="https://abishek-n.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/abishek-n-487a54218/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/AbishekN0412"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:abishekn0412@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-</div>
-
-<div align="center">
-  <sup><i>Building scalable web applications, reliable backend systems, and AI-powered developer workflows.</i></sup>
 </div>
 
 <br/>
 
-<div align="center">
+> [!NOTE]
+> **I build systems that stay fast, consistent and observable under load — and put AI agents to work inside them.**
 
-<p>
-  <img src="https://img.shields.io/badge/EXPERIENCE-4%2B%20Years-7C3AED?style=for-the-badge&labelColor=1B0B2E" alt="4+ years experience" />
-  <img src="https://img.shields.io/badge/FOCUS-Full%20Stack%20%26%20AI-A855F7?style=for-the-badge&labelColor=1B0B2E" alt="Full Stack & AI" />
-  <img src="https://img.shields.io/badge/BASED%20IN-Coimbatore%2C%20India-58A6FF?style=for-the-badge&labelColor=1B0B2E" alt="Based in Coimbatore, India" />
-</p>
+<br/>
 
-<p>
-  <a href="https://www.linkedin.com/in/abishek-n-487a54218/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:abishekn0412@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/Abishek-0412"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
+## ⚡ At a glance
 
-</div>
+<table>
+<tr>
+<td width="55%" valign="top">
 
----
+```ts
+const abishek = {
+  role:       "Full Stack Developer · Developer Lead",
+  company:    "Brightspot Technology Solutions",
+  experience: "4+ years",
+  education:  "M.Sc B.Ed — Computer Science",
+  location:   "Coimbatore, India",
 
-## 👨‍💻 About Me
+  domains:  ["E-commerce", "SaaS", "B2B", "AI"],
+  loves:    ["clean architecture", "fast queries", "good traces"],
+  mantra:   "Learn → Build → Improve → Repeat",
+};
+```
 
-~~~yaml
-name: Abishek N
-role: Full Stack Developer / Developer Lead
-experience: 4+ years
-education: M.Sc B.Ed in Computer Science
-location: Coimbatore, India
-engineering_mindset: "Learn → Build → Improve → Repeat"
+</td>
+<td width="45%" valign="top">
 
-focus:
-  - Full-stack application development
-  - Backend engineering and API design
-  - Database performance and optimization
-  - Cloud infrastructure and observability
-  - AI agents and LLM-powered automation
-~~~
+🔭 &nbsp;Leading delivery on **real-time commerce & payment systems**
 
-I enjoy turning complex requirements into maintainable, production-ready software. My work spans frontend engineering, backend services, data systems, cloud infrastructure, performance optimization, and AI-assisted development.
+🤖 &nbsp;Building **LLM agents** with LangGraph & LangChain
 
-I value clean architecture, secure implementation, reliable systems, collaboration, and continuous learning.
+☁️ &nbsp;Working toward **AWS Solutions Architect** certification
 
----
+📈 &nbsp;Tuned queries & indexes for **up to 40% faster** data retrieval
+
+💬 &nbsp;Ask me about **APIs, Postgres, observability, AI tooling**
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🚀 Featured Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🍷 Corksy
+**Multi-site wine e-commerce + POS**
+
+- Real-time inventory sync across online & POS
+- Cart-hold reservations that stop overselling
+- Multi-provider payments, RBAC, event-driven orders
+
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![WebSockets](https://img.shields.io/badge/-WebSockets-0D0221?style=flat-square&logo=socketdotio&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 aRa
+**AI agent platform**
+
+- Agents that generate SRDs & test cases
+- Structured product description generation
+- Reusable prompt frameworks across teams
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LLMs](https://img.shields.io/badge/-LLMs-7C3AED?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💍 SpotMI
+**Matrimony platform — web & mobile**
+
+- Led end-to-end delivery in one month
+- GraphQL APIs + Flutter iOS / Android apps
+- Encrypted chat & image validation
+
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎁 Incentive Fox
+**Referral, rewards & B2B platform**
+
+- QR referrals + loyalty campaigns
+- SVS & Tango gift-card fulfillment
+- FTP batch pipelines with reconciliation
+
+![AngularJS](https://img.shields.io/badge/-AngularJS-E23237?style=flat-square&logo=angularjs&logoColor=white)
+![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![REST](https://img.shields.io/badge/-REST%20APIs-0D0221?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 👁️ Retina Watch &nbsp;·&nbsp; <sub>AI medical imaging</sub>
+Retina condition detection models with preprocessing & training pipelines for real-time predictive analysis. &nbsp;
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## 🧰 Tech Stack
 
-<details open>
-<summary><b>🎨 Frontend</b></summary>
-<br/>
-
-<img src="https://skillicons.dev/icons?i=react,redux,ts,js,html,css,tailwind,bootstrap" alt="React, Redux, TypeScript, JavaScript, HTML, CSS, Tailwind, Bootstrap" />
-
-<br/>
-
-`React.js` · `Redux` · `Zustand` · `TypeScript` · `JavaScript` · `HTML5` · `CSS3` · `Tailwind CSS` · `Bootstrap` · `Lodash.js` · `Responsive Web Design`
-
-</details>
-
-<details>
-<summary><b>⚙️ Backend & APIs</b></summary>
-<br/>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,go,python,graphql" alt="Node.js, Express, Go, Python, GraphQL" />
-
-<br/>
-
-`Node.js` · `Express.js` · `Go (Golang)` · `Python` · `GraphQL` · `REST APIs` · `WebSockets` · `AI Agent Development` · `LangChain` · `LangGraph`
-
-</details>
-
-<details>
-<summary><b>🗄️ Databases & Data Systems</b></summary>
-<br/>
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="PostgreSQL, MySQL, MongoDB" />
-
-<br/>
-
-`PostgreSQL` · `MSSQL` · `SQL Optimization` · `Query Performance Tuning` · `Indexing` · `Caching Strategies`
-
-</details>
-
-<details>
-<summary><b>☁️ Cloud, DevOps & Observability</b></summary>
-<br/>
-
-<img src="https://skillicons.dev/icons?i=aws,terraform,git,github,linux" alt="AWS, Terraform, Git, GitHub, Linux" />
-
-<br/>
-
-`AWS Lambda` · `EC2` · `RDS` · `SQS` · `Step Functions` · `Elastic Beanstalk` · `Terraform` · `CI/CD Pipelines` · `OpenTelemetry` · `Datadog` · `Flipt`
-
-</details>
-
-<details>
-<summary><b>🧪 Testing, Security & Practices</b></summary>
-<br/>
-
-`Playwright` · `Agile Methodologies` · `Linear` · `Code Reviews` · `SQL Injection Prevention` · `Bot Attack Mitigation` · `Rate Limiting` · `Web Application Firewall (WAF)` · `Load Balancing`
-
-</details>
-
-<details>
-<summary><b>🤖 AI Tooling</b></summary>
-<br/>
-
-`LLM Pipelines` · `LangChain` · `LangGraph` · `PyTorch` · `Prompt Frameworks` · `Model Integration` · `AI Automation` · `Claude CLI` · `Codex CLI` · `Cursor`
-
-</details>
-
----
-
-## 🧠 Engineering Strengths
-
-| Area | What I Focus On |
-|---|---|
-| **Application Engineering** | Maintainable frontend and backend applications |
-| **API Development** | REST, GraphQL, real-time communication, secure validation |
-| **Performance** | Database tuning, indexing, caching, efficient data access |
-| **Reliability** | Concurrency control, error handling, retries, fault tolerance |
-| **Observability** | Distributed tracing, centralized logging, monitoring, alerting |
-| **Cloud & Delivery** | AWS services, infrastructure as code, CI/CD workflows |
-| **Collaboration** | Technical coordination, code reviews, mentoring, Agile delivery |
-| **AI Engineering** | LLM workflows, agent frameworks, prompt design, automation |
-
----
-
-## 🌱 Current Interests
-
-- Building dependable, scalable full-stack systems
-- Exploring AI agents and LLM-based automation
-- Improving application observability and production reliability
-- Writing maintainable code and refining engineering workflows
-- Learning new tools and sharing what I discover
-
----
-
-## 📊 GitHub Overview
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abishek-0412&show_icons=true&hide_border=true&rank_icon=github&bg_color=1B0B2E&title_color=A855F7&icon_color=7C3AED&text_color=C4B5FD&theme=tokyonight" alt="GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abishek-0412&layout=compact&hide_border=true&bg_color=1B0B2E&title_color=A855F7&text_color=C4B5FD&theme=tokyonight" alt="Most used languages" />
-</div>
-
-<div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Abishek-0412&hide_border=true&background=1B0B2E&stroke=4C1D95&ring=7C3AED&fire=A855F7&currStreakNum=C4B5FD&sideNums=C4B5FD&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=6D28D9" alt="GitHub contribution streak" />
-</div>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abishek-0412&bg_color=1B0B2E&color=C4B5FD&line=7C3AED&point=A855F7&area=true&hide_border=true" alt="GitHub activity graph" />
-</div>
-
----
-
-## 🤝 Connect With Me
-
 <div align="center">
 
-<p>
-  <a href="https://www.linkedin.com/in/abishek-n-487a54218/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:abishekn0412@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/Abishek-0412"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=react,redux,ts,js,html,css,tailwind,bootstrap,angular,flutter&perline=10" alt="Frontend stack" />
+
+**Backend & Data**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,go,python,graphql,postgres,mysql,mongodb,pytorch&perline=10" alt="Backend and data stack" />
+
+**Cloud & Tooling**<br/>
+<img src="https://skillicons.dev/icons?i=aws,terraform,git,github,linux,vscode&perline=10" alt="Cloud and tooling stack" />
+
+<br/>
+
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![SQS](https://img.shields.io/badge/SQS-FF4F8B?style=flat-square&logo=amazonsqs&logoColor=white)
+![Step Functions](https://img.shields.io/badge/Step%20Functions-E7157B?style=flat-square&logo=amazonaws&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
+![Flipt](https://img.shields.io/badge/Flipt-7C3AED?style=flat-square)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=flat-square&logo=linear&logoColor=white)
+
+**AI-assisted workflow** &nbsp;
+![Claude CLI](https://img.shields.io/badge/Claude%20CLI-D97757?style=flat-square&logo=claude&logoColor=white)
+![Codex CLI](https://img.shields.io/badge/Codex%20CLI-000000?style=flat-square)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square)
 
 </div>
 
----
+<br/>
+
+## 🧠 How I Engineer
+
+| | Focus | In practice |
+|:-:|---|---|
+| ⚙️ | **APIs & real-time** | REST, GraphQL, WebSockets, secure validation |
+| 🗄️ | **Performance** | Query tuning, indexing, caching, efficient data access |
+| 🔒 | **Reliability** | Concurrency control, idempotency, retries, fault tolerance |
+| 🔭 | **Observability** | Distributed tracing, centralized logs, Datadog alerting, feature flags |
+| ☁️ | **Cloud & delivery** | AWS serverless, Terraform, CI/CD pipelines |
+| 🛡️ | **Security** | SQL-injection prevention, rate limiting, WAF, bot mitigation |
+| 🤖 | **AI engineering** | LLM pipelines, agent frameworks, prompt design, automation |
+| 🤝 | **Leadership** | Sprint planning in Linear, code reviews, mentoring |
+
+<br/>
+
+## 🛤️ Journey
+
+```diff
++ 2022 — Now    Full Stack Developer → Developer Lead · Brightspot Technology Solutions
+!               Real-time payment sync · duplicate-transaction guards · 40% faster queries
+!               OpenTelemetry + Datadog + Flipt rollout · mentoring the team
+@@ In progress   AWS Certified Solutions Architect @@
+# 2022          M.Sc B.Ed — Computer Science · Govt. College of Arts and Science, Coimbatore
+```
+
+<br/>
+
+## 📊 GitHub Pulse
 
 <div align="center">
 
-<!-- ═══════════ ANIMATED GRADIENT FOOTER ═══════════ -->
+<img height="165" src="https://github-readme-stats-henna-six-20.vercel.app/api?username=Abishek-0412&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&bg_color=0D0221&title_color=A855F7&icon_color=7C3AED&text_color=C4B5FD" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats-henna-six-20.vercel.app/api/top-langs/?username=Abishek-0412&layout=compact&hide_border=true&langs_count=8&bg_color=0D0221&title_color=A855F7&text_color=C4B5FD" alt="Top languages" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0.1:1B0B2E,0.35:4C1D95,0.6:7C3AED,0.85:58A6FF,1:1B0B2E&height=160&section=footer&text=Keep%20Building%20%F0%9F%9A%80&fontSize=28&fontColor=FFFFFF&fontAlignY=60&animation=fadeIn" alt="footer" />
+<img width="80%" src="https://streak-stats.demolab.com?user=Abishek-0412&hide_border=true&background=0D0221&stroke=4C1D95&ring=7C3AED&fire=A855F7&currStreakNum=FFFFFF&sideNums=C4B5FD&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B5CF6" alt="Contribution streak" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abishek-0412&bg_color=0D0221&color=C4B5FD&line=7C3AED&point=58A6FF&area=true&area_color=7C3AED&hide_border=true&radius=8" alt="Contribution activity graph" />
+
+</div>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Abishek-0412&style=flat-square&color=A855F7&label=PROFILE+VIEWS" alt="Profile views" />
+## 👾 Pac-Man vs. My Contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abishek-0412/Abishek-0412/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abishek-0412/Abishek-0412/output/pacman-contribution-graph.svg">
+  <img width="100%" alt="Pac-Man eating my contribution graph" src="https://raw.githubusercontent.com/Abishek-0412/Abishek-0412/output/pacman-contribution-graph.svg">
+</picture>
+
+</div>
+
 <br/>
+
+## 🤝 Let's Build Something
+
+<div align="center">
+
+I'm always up for conversations about **scalable systems, developer tooling and AI agents**.<br/>
+The fastest way to reach me is email or LinkedIn — or explore more of my work on my portfolio.
+
+<br/>
+
+<a href="https://abishek-n.netlify.app/"><img src="https://img.shields.io/badge/Visit-abishek--n.netlify.app-58A6FF?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0D0221" alt="Visit portfolio" /></a>
+<a href="mailto:abishekn0412@gmail.com"><img src="https://img.shields.io/badge/Say%20hello-abishekn0412%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0221" alt="Email Abishek" /></a>
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,25:7C3AED,60:4C1D95,100:0D0221&height=140&section=footer&animation=twinkling" alt="footer" />
+
+<img src="https://komarev.com/ghpvc/?username=Abishek-0412&style=flat-square&color=7C3AED&label=profile+views" alt="Profile views" />
+
 <sub><b>Learn → Build → Improve → Repeat</b></sub>
 
 </div>
