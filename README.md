@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,40:4C1D95,75:7C3AED,100:58A6FF&height=240&section=header&text=Abishek%20N&fontSize=64&fontColor=FFFFFF&fontAlignY=36&desc=Full%20Stack%20%26%20AI%20Systems%20Engineer&descSize=20&descAlignY=56&animation=twinkling" alt="Abishek N — Full Stack & AI Systems Engineer" />
+<img width="100%" src="https://readmeforge.natrajx.in/api/header?name=Abishek%20N&amp;title=Full%20Stack%20%26%20AI%20Systems%20Engineer&amp;tagline=Learn%20%E2%86%92%20Build%20%E2%86%92%20Improve%20%E2%86%92%20Repeat&amp;style=wave-flow&amp;metal=electric&amp;animated=true&amp;particles=true&amp;v=20261012c" alt="Abishek N — Full Stack &amp; AI Systems Engineer" />
 
 <a href="https://github.com/Abishek-0412">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=640&lines=Developer+Lead+%40+Brightspot;Real-time+systems+%C2%B7+APIs+%C2%B7+Databases;Observability+that+actually+helps;AI+agents+that+do+real+work;Learn+%E2%86%92+Build+%E2%86%92+Improve+%E2%86%92+Repeat" alt="Typing intro" />
@@ -228,16 +228,6 @@ Retina condition detection models with preprocessing & training pipelines for re
 
 <img width="80%" src="https://streak-stats.demolab.com?user=Abishek-0412&hide_border=true&background=0D0221&stroke=4C1D95&ring=7C3AED&fire=A855F7&currStreakNum=FFFFFF&sideNums=C4B5FD&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B5CF6" alt="Contribution streak" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abishek-0412&bg_color=0D0221&color=C4B5FD&line=7C3AED&point=58A6FF&area=true&area_color=7C3AED&hide_border=true&radius=8" alt="Contribution activity graph" />
-
-</div>
-
-<br/>
-
-## 👾 Pac-Man vs. My Contributions
-
-<div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abishek-0412/Abishek-0412/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abishek-0412/Abishek-0412/output/pacman-contribution-graph.svg">
@@ -264,9 +254,9 @@ The fastest way to reach me is email or LinkedIn — or explore more of my work 
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,25:7C3AED,60:4C1D95,100:0D0221&height=140&section=footer&animation=twinkling" alt="footer" />
+<img width="100%" src="https://readmeforge.natrajx.in/api/footer?text=Learn%20%E2%86%92%20Build%20%E2%86%92%20Improve%20%E2%86%92%20Repeat&amp;style=wave-flow&amp;metal=electric&amp;v=20261012" alt="Footer" />
 
-<img src="https://komarev.com/ghpvc/?username=Abishek-0412&style=flat-square&color=7C3AED&label=profile+views" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Abishek-0412&amp;style=flat-square&amp;color=7C3AED&amp;label=profile+views&amp;v=20261012" alt="Profile views" />
 
 <sub><b>Learn → Build → Improve → Repeat</b></sub>
 
